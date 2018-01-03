@@ -31,7 +31,33 @@ Also learning how to research and present an effective and persuasive position p
 
 ## Courses
 
+- [Course on Ethics - Le Bien, le Juste, l'Utile. Introduction aux éthiques philosophiques](https://www.coursera.org/learn/ethique/home/info) by University of Geneva - 8 weeks of study, the course is in French but has subtitles in many languages :)
 
+### Business
+
+- [Intro to International Marketing](https://www.coursera.org/learn/intro-international-marketing) by Yonsei University - 3 weeks of study, 1-2 hours/week
+- [Viral Marketing and How to Craft Contagious Content](https://www.coursera.org/learn/wharton-contagious-viral-marketing) by University of Pennsylvania - 4 weeks of study
+- [Initiating and Planning Projects](https://www.coursera.org/learn/project-planning) by University of California, Irvine - 4 weeks of study, 2-3 hours/week
+- [Managing Social and Human Capital](https://www.coursera.org/learn/wharton-social-human-capital) by University of Pennsylvania - 4 weeks of study, 2-3 hours per week
+- [Intercultural Management](https://www.coursera.org/learn/intercultural) by ESCP Europe - 5 weeks of study
+- [Strategy and Sustainability](https://www.coursera.org/learn/strategy-sustainability) by  IESE Business School - 6 weeks of study, 2-3 hours/week
+- [Foundations of Business Strategy](https://www.coursera.org/learn/uva-darden-foundations-business-strategy) by University of Virginia - 4 weeks of study, 5-6 hours/week
+- [Innovation Management](https://www.coursera.org/learn/innovation-management) by Erasmus University Rotterdam - 9 weeks of study
+
+### Design Thinking
+
+- [Design Thinking for Innovation](https://www.coursera.org/learn/uva-darden-design-thinking-innovation) by University of Virginia - 5 weeks of study, 1-2 hours/week
+- [Design Thinking for the Greater Good: Innovation in the Social Sector](https://www.coursera.org/learn/uva-darden-design-thinking-social-sector) by University of Virginia - 4 weeks of study, 2-4 hours/week
+- [Human-Centered Design: an Introduction](https://www.coursera.org/learn/human-computer-interaction) by University of California, San Diego - 4 weeks, 3-4 hours/week
+- [Introduction to User Experience Design](https://www.coursera.org/learn/user-experience-design) by Georgia Institute of Technology - 5 weeks of study, 1-2 hours/week
+
+### Innovation & Entrepreneurship
+
+- [Innovation & Entrepreneurship - From Design Thinking to Funding](https://www.coursera.org/learn/design-thinking-entrepreneurship) by EIT Digital - 6 weeks of study
+- [Becoming a changemaker: Introduction to Social Innovation](https://www.coursera.org/learn/social-innovation) by University of Cape Town - 6 weeks of study, 2-3 hours per week
+- [Innovating in a Digital World](https://www.coursera.org/learn/innovating-digital-world) by Institut Mines-Télécom - 4 weeks of study, 2-3 hours/week
+
+ 
 
 ## Books
 
@@ -42,5 +68,10 @@ Also learning how to research and present an effective and persuasive position p
 
 
 ## Capstone Project
+
+## Other online innovation masters (payed)
+
+- [Innovation: From Creativity to Entrepreneurship Specialization](https://www.coursera.org/specializations/innovation-creativity-entrepreneurship)
+- [Online Master's in Innovation and Entrepreneurship](https://www.coursera.org/degrees/omie)
 
 
