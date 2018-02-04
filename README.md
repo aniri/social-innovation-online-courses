@@ -65,7 +65,7 @@ Also learning how to research and present an effective and persuasive position p
 
 ## Articles
 
-
+-[MIT Global Innovators E-Seminars](http://bootcamp.mit.edu/entrepreneurship/e-seminars/)
 
 ## Capstone Project
 
