@@ -56,6 +56,7 @@ Also learning how to research and present an effective and persuasive position p
 - [Innovation & Entrepreneurship - From Design Thinking to Funding](https://www.coursera.org/learn/design-thinking-entrepreneurship) by EIT Digital - 6 weeks of study
 - [Becoming a changemaker: Introduction to Social Innovation](https://www.coursera.org/learn/social-innovation) by University of Cape Town - 6 weeks of study, 2-3 hours per week
 - [Innovating in a Digital World](https://www.coursera.org/learn/innovating-digital-world) by Institut Mines-Télécom - 4 weeks of study, 2-3 hours/week
+- [Tech for good](https://courses.edx.org/courses/course-v1:SDGAcademyX+ICT001+3T2018/3dd6a02bd3894f95ae892043bc65339c/) by UNESCO and Cetic.br/NIC.br - 10 weeks of study
 
  
 
