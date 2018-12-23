@@ -1,4 +1,4 @@
-# innovation-online-courses
+# social-innovation-online-courses
 My path to a free self-taught education in Innovation & Entrepreneurship! *I will be adding pizzas to the ones I finish to track my progress.* :relaxed:
 
 ## Contents
