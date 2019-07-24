@@ -39,10 +39,12 @@ Also learning how to research and present an effective and persuasive position p
 - [Design Thinking for the Greater Good: Innovation in the Social Sector](https://www.coursera.org/learn/uva-darden-design-thinking-social-sector) by University of Virginia - 4 weeks of study, 2-4 hours/week
 - [Human-Centered Design: an Introduction](https://www.coursera.org/learn/human-computer-interaction) by University of California, San Diego - 4 weeks, 3-4 hours/week
 - [Introduction to User Experience Design](https://www.coursera.org/learn/user-experience-design) by Georgia Institute of Technology - 5 weeks of study, 1-2 hours/week
+- [Creative Problem Solving](https://www.coursera.org/learn/creative-problem-solving) by University of Minnesota - 4 weeks of stud, 3-4 hours/week
 
 ### Innovation & Entrepreneurship
 
 - [Innovation & Entrepreneurship - From Design Thinking to Funding](https://www.coursera.org/learn/design-thinking-entrepreneurship) by EIT Digital - 6 weeks of study
+- [Entrepreneurship Strategy: From Ideation to Exit](https://www.coursera.org/learn/entrepreneurship-strategy) by HEC Paris - 4 weeks of study, 6 hours/week
 - [Becoming a changemaker: Introduction to Social Innovation](https://www.coursera.org/learn/social-innovation) by University of Cape Town - 6 weeks of study, 2-3 hours per week
 - [Innovating in a Digital World](https://www.coursera.org/learn/innovating-digital-world) by Institut Mines-Télécom - 4 weeks of study, 2-3 hours/week
 - [Tech for good](https://courses.edx.org/courses/course-v1:SDGAcademyX+ICT001+3T2018/3dd6a02bd3894f95ae892043bc65339c/) by UNESCO and Cetic.br/NIC.br - 10 weeks of study
