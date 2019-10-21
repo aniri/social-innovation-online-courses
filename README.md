@@ -31,6 +31,7 @@ Also learning how to research and present an effective and persuasive position p
 
 ## Courses
 
+- [Boosting Creativity for Innovation](https://www.coursera.org/learn/boosting-creativity-innovation/home/welcome) by HEC Paris - 4 weeks of study
 - [Course on Ethics - Le Bien, le Juste, l'Utile. Introduction aux éthiques philosophiques](https://www.coursera.org/learn/ethique/home/info) by University of Geneva - 8 weeks of study, the course is in French but has subtitles in many languages :)
 
 ### Design Thinking
