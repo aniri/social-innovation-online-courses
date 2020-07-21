@@ -33,6 +33,7 @@ Also learning how to research and present an effective and persuasive position p
 
 - [Boosting Creativity for Innovation](https://www.coursera.org/learn/boosting-creativity-innovation/home/welcome) by HEC Paris - 4 weeks of study
 - [Course on Ethics - Le Bien, le Juste, l'Utile. Introduction aux éthiques philosophiques](https://www.coursera.org/learn/ethique/home/info) by University of Geneva - 8 weeks of study, the course is in French but has subtitles in many languages :)
+- [You Can Innovate: User Innovation & Entrepreneurship](https://www.edx.org/course/you-can-innovate-user-innovation-entrepreneurship) by MIT
 
 ### Design Thinking
 
@@ -49,6 +50,9 @@ Also learning how to research and present an effective and persuasive position p
 - [Becoming a changemaker: Introduction to Social Innovation](https://www.coursera.org/learn/social-innovation) by University of Cape Town - 6 weeks of study, 2-3 hours per week
 - [Innovating in a Digital World](https://www.coursera.org/learn/innovating-digital-world) by Institut Mines-Télécom - 4 weeks of study, 2-3 hours/week
 - [Tech for good](https://courses.edx.org/courses/course-v1:SDGAcademyX+ICT001+3T2018/3dd6a02bd3894f95ae892043bc65339c/) by UNESCO and Cetic.br/NIC.br - 10 weeks of study
+- [Entrepreneurship 101: Who is your customer?](https://www.edx.org/course/entrepreneurship-101-who-is-your-customer) by MIT
+- [Entrepreneurship 102: What can you do for your customer?](https://www.edx.org/course/entrepreneurship-102-what-can-you-do-for-your-cust) by MIT
+- [Entrepreneurship 103: Show Me The Money](https://www.edx.org/course/entrepreneurship-103-show-me-the-money) by MIT
 
 ### Business
 
@@ -60,6 +64,11 @@ Also learning how to research and present an effective and persuasive position p
 - [Strategy and Sustainability](https://www.coursera.org/learn/strategy-sustainability) by  IESE Business School - 6 weeks of study, 2-3 hours/week
 - [Foundations of Business Strategy](https://www.coursera.org/learn/uva-darden-foundations-business-strategy) by University of Virginia - 4 weeks of study, 5-6 hours/week
 - [Innovation Management](https://www.coursera.org/learn/innovation-management) by Erasmus University Rotterdam - 9 weeks of study
+- [Market Research and Consumer Behavior](https://www.coursera.org/learn/market-research) by IE Business School
+
+### Evaluation
+
+- [Evaluating Social Programs](https://www.edx.org/course/evaluating-social-programs-3) - by MIT
 
 ## Books
 
